@@ -39,7 +39,7 @@
   "settings": {
     "auto_update": true,
     "remember_login": true,
-    "minimize_to_tray": true,
+    "minimize_to_tray": false,
     "gta_path": "",
     "fivem_path": "",
     "launch_args": ""

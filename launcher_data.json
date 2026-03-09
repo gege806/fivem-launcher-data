@@ -26,7 +26,24 @@
     }
   ],
   "rules": [],
-  "changelog": [],
+  "changelog": [
+    {
+      "version": "测试",
+      "date": "测试",
+      "sections": [
+        [
+          "测试",
+          []
+        ],
+        [
+          "新增",
+          [
+            "测试"
+          ]
+        ]
+      ]
+    }
+  ],
   "team": [
     {
       "name": "格格",

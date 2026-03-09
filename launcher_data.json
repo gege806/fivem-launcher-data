@@ -1,0 +1,47 @@
+{
+  "server": {
+    "name": "测试",
+    "description": "半RP丨女玩家认证送车房丨帮派扶持丨真实车牌.赌场.挖矿.伐木.欧卡.狩猎.农业.拳击.赛车等,1000+精品车模和声浪.",
+    "ip": "connect cfx.re/join/xxxxxx",
+    "map": "fivem-map-hipster",
+    "mode": "Freeroam",
+    "max_players": 2048,
+    "onesync": true,
+    "kook_url": "https://kook.top/xxxxxx",
+    "qq_group": "9385698"
+  },
+  "announcements": [
+    {
+      "type": "通知",
+      "title": "更新公告",
+      "date": "2026/2/24",
+      "content": "如需查看更多更新公告请移步至登录器左边导航栏更新日志中查看！！！"
+    }
+  ],
+  "shop": [
+    {
+      "name": "赞助表",
+      "price": "¥1.00",
+      "desc": "联系浅夏＆迈克"
+    }
+  ],
+  "rules": [],
+  "changelog": [],
+  "team": [
+    {
+      "name": "格格",
+      "role": "服主-技术",
+      "role_color": "#6366f1",
+      "desc": "负责服务器日常维护及开发",
+      "qq": "2095857316"
+    }
+  ],
+  "settings": {
+    "auto_update": true,
+    "remember_login": true,
+    "minimize_to_tray": false,
+    "gta_path": "",
+    "fivem_path": "",
+    "launch_args": ""
+  }
+}

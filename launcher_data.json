@@ -10,7 +10,14 @@
     "kook_url": "https://kook.top/xxxxxx",
     "qq_group": "9385698"
   },
-  "announcements": [],
+  "announcements": [
+    {
+      "type": "测试",
+      "title": "测试",
+      "date": "",
+      "content": "测试"
+    }
+  ],
   "shop": [
     {
       "name": "赞助表",
